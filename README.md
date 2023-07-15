@@ -14,19 +14,28 @@
 ### Titulo nivel 3
 ***
 
-Listas:
+### Listas:
 1. Teste
    1. Teste
    2. Teste
 2. Teste
 
-Lista demarcarda:
+### Lista demarcarda:
 * Teste
 * Teste
 * Teste
    * Teste
 * Teste
 
-Lista de tarefas:
+### Lista de tarefas:
 - [ ] Estudar matérias da faculdade
 - [x] ~~Salvar nova atualização do README~~
+
+### Tabelas
+Num|Nome|Nota
+---|---|---
+1|Rodrigo|10
+2|Asafh|10
+3|Dev|10
+
+Fim da tabela
